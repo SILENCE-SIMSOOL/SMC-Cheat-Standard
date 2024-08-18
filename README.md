@@ -66,14 +66,14 @@ Sa는 핵인가?
 이는 완벽하게 오토 터미널과 전혀 다를게 없는 모드이며 현재까지도 많은 유저들이 핵이 아니라고 호소하는 모드입니다.
 
 ## 📖 기준 표
-| 기능 이름            | 모드 이름            | 단계         | 설명             |
-|----------------------|----------------------|--------------|------------------|
-| AutoText             | Skytils              | Half Legit   |                  |
-| Leap Screen          | Better Map           | Half Legit   |                  |
-| Party Chat Command   | Azured Client        | Half Legit   |                  |
-| Auto Harp            |                      | Cheat        |                  |
-| Auto Terminal        | Sa                   | Cheat        |                  |
-| Velocity             | Zph                  | Hard Cheat   |                  |
+| 기능 이름            | 모드 이름            | 단계         |
+|----------------------|----------------------|--------------|
+| AutoText             | Skytils              | Half Legit   |
+| Leap Screen          | Better Map           | Half Legit   |
+| Party Chat Command   | Azured Client        | Half Legit   |
+| Auto Harp            |                      | Cheat        |
+| Auto Terminal        | Sa                   | Cheat        |
+| Velocity             | Zph                  | Hard Cheat   |
 
 
 
