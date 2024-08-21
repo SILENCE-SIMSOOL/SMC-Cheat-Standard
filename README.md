@@ -80,11 +80,20 @@ Map은 핵인가?
 | 기능 이름                                                                                                     | 모드 이름            | 단계         |
 |---------------------------------------------------------------------------------------------------------------|----------------------|--------------|
 | [AutoText](https://github.com/SILENCE-SIMSOOL/SMC-Cheat-Standard/blob/main/data/AutoText/INFO.md)             | Skytils              | Half Legit   |
-| Leap Screen          | Better Map           | Half Legit   |
+| [Leap Screen](https://github.com/SILENCE-SIMSOOL/SMC-Cheat-Standard/blob/main/data/Leap%20Screen/INFO.md)     | Better Map           | Half Legit   |
 | Party Chat Command   | Azured Client        | Half Legit   |
 | Auto Harp            |                      | Cheat        |
 | Auto Terminal        | Sa                   | Cheat        |
 | Velocity             | Zph                  | Hard Cheat   |
+| Reach   | Azured Client        | Hard Cheat   |
+| Auto Click   | Azured Client        | Cheat   |
+| Powder Macro   | Azured Client        | Cheat   |
+| Mining Macro   | Azured Client        | Cheat   |
+| Foraging Macro   | Azured Client        | Cheat  |
+| Fishing Macro   | Azured Client        | Cheat   |
+| Combat Macro   | Azured Client        | Cheat   |
+| Farming Macro   | Azured Client        | Cheat   |
+| Esp   | Azured Client        | Cheat   |
 
 
 
