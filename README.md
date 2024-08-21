@@ -77,9 +77,9 @@ Map은 핵인가?
 미리 맵들을 스캔하여 무슨 맵인지 알아내는 모드는 위와 같은 원리이고 Half Legit에 속합니다.
 
 ## 📖 기준 표
-| 기능 이름            | 모드 이름            | 단계         |
-|----------------------|----------------------|--------------|
-| AutoText             | Skytils              | Half Legit   |
+| 기능 이름                                                                                                     | 모드 이름            | 단계         |
+|---------------------------------------------------------------------------------------------------------------|----------------------|--------------|
+| [AutoText](https://github.com/SILENCE-SIMSOOL/SMC-Cheat-Standard/blob/main/data/AutoText/INFO.md)             | Skytils              | Half Legit   |
 | Leap Screen          | Better Map           | Half Legit   |
 | Party Chat Command   | Azured Client        | Half Legit   |
 | Auto Harp            |                      | Cheat        |
