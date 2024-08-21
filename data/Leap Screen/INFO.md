@@ -5,4 +5,4 @@
 [BetterMap](https://github.com/BetterMap/BetterMap) 에서 최초로 만들었으며 다른 모드에서도 종종 보이는 기능입니다.
 
 # 💻 오픈소스
-해당 기능은 오픈 소스이며 [여기에서](https://github.com/SILENCE-SIMSOOL/SMC-Cheat-Standard/blob/main/data/AutoText/KeyShortcuts.kt) 확인하실 수 있습니다.
+해당 기능은 오픈 소스이며 [여기에서](https://github.com/SILENCE-SIMSOOL/SMC-Cheat-Standard/blob/main/data/Leap%20Screen/leapGui.js) 확인하실 수 있습니다.
