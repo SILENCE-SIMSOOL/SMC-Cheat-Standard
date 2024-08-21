@@ -85,15 +85,15 @@ Map은 핵인가?
 | Auto Harp            |                      | Cheat        |
 | Auto Terminal        | Sa                   | Cheat        |
 | Velocity             | Zph                  | Hard Cheat   |
-| Reach   | Azured Client        | Hard Cheat   |
-| Auto Click   | Azured Client        | Cheat   |
-| Powder Macro   | Azured Client        | Cheat   |
-| Mining Macro   | Azured Client        | Cheat   |
-| Foraging Macro   | Azured Client        | Cheat  |
-| Fishing Macro   | Azured Client        | Cheat   |
-| Combat Macro   | Azured Client        | Cheat   |
-| Farming Macro   | Azured Client        | Cheat   |
-| Esp   | Azured Client        | Cheat   |
+| Reach                | Reach                | Hard Cheat   |
+| Auto Click           |                      | Cheat   |
+| Powder Macro         | SkySkipped, Pola, MightyMiner        | Cheat   |
+| Mining Macro         | SkySkipped, Pola, MightyMiner        | Cheat   |
+| Foraging Macro       | SkySkipped        | Cheat  |
+| Fishing Macro        |         | Cheat   |
+| Combat Macro         | SkySkipped        | Cheat   |
+| Farming Macro        | FarmHelper        | Cheat   |
+| Esp                  | SkySkipped        | Cheat   |
 
 
 
