@@ -94,6 +94,8 @@ Map은 핵인가?
 | Combat Macro         | SkySkipped        | Cheat   |
 | Farming Macro        | FarmHelper        | Cheat   |
 | Esp                  | SkySkipped        | Cheat   |
+| Re-Party             | Skytils           | Half Legit   |
+| Auto Re-Party        | Skytils           | Half Legit   |
 
 
 
