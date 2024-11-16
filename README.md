@@ -99,3 +99,5 @@ Map은 핵인가?
 
 
 
+## 📚 다른 문서들 보러가기
+[[스카이블럭 핵의 대한 기준표]](https://github.com/SILENCE-SIMSOOL/SMC-Cheat-Standard/blob/main/document/document01.md)
