@@ -93,7 +93,7 @@ Map은 핵인가?
 | Fishing Macro        |         | Cheat   |
 | Combat Macro         | SkySkipped        | Cheat   |
 | Farming Macro        | FarmHelper        | Cheat   |
-| Esp                  | SkySkipped        | Cheat   |
+| Esp                  | SkySkipped        | Half Legit   |
 | Re-Party             | Skytils           | Half Legit   |
 | Auto Re-Party        | Skytils           | Half Legit   |
 
