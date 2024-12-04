@@ -24,8 +24,8 @@ This is explicitly stated in Hypixel's rules as a clear cheat.
 Then what about mods that show the target block of Etherwarps, check completed tasks on the 4th device, display specific terrains in Crystal Hollows, or show map names?
 These are mods everyone uses as if they’re normal.
 
-The Etherwarp mod scans blocks beyond our sight and determines whether if you can Etherwarp onto that block or cannot.
-Device-checking mods, terrain-revealing mods, or map name mods function the same as X-ray.
+- The Etherwarp mod scans blocks beyond our sight and determines whether if you can Etherwarp onto that block or cannot.
+- Device-checking mods, terrain-revealing mods, or map name mods function the same as X-ray.
 The feature of scanning visible blocks and that of scanning invisible ones is entirely the same.
 Thus, scanning visible blocks is equally problematic, but these mods go further by scanning invisible blocks.
 However, the standard for cheats is usually not based solely on logic or clear criteria, but is determined by the thoughts and consensus of the community.
@@ -51,19 +51,18 @@ However, the most important part for users is what you see, which is why mods li
 But as mentioned, this feature cannot check if something is on the screen, so it’s simply an ESP mode.
 
 If you consider Skytils as a legit mod, these features should all be considered as legit features:
-
-Using Ender Pearls even if you are standing right next to a block
-Scanning the map from the start and telling the room informations (FunnyMap)
-Showing team member or boss locations (ESP)
+- Using Ender Pearls even if you are standing right next to a block
+- Scanning the map from the start and telling the room informations (FunnyMap)
+- Showing team member or boss locations (ESP)
 
 ## How to properly use mods.
 
-Then, does that mean I shouldn't use Skytils?? Of course not.
+Then, does that mean I shouldn't use Skytils? Of course not.
 Hypixel has changed to allow 퍼즐같은 mods specifically for SkyBlock, and Skytils mods have been indirectly designated as allowed mods.
 Then, to put it again, unfortunately, these mods are also outside the regulations that Hypixel have set, and even though they have not been classified as hacks, the user must bear the risk of being banned. 
 Then, I will let you know the features that are safe and cannot lead to a ban even though they fall outside the scope of the regulations
 
-  All features related to ESP / XRay
+  - All features related to ESP / XRay
   Minecraft already sends information about nearby entities and blocks from the server side.
   But the game client system you use only shows what you see.
   When you mine a block in front, it’s not a new block being generated behind, but one that already exists, and your client   just shows the next one after the previous block disappears.
@@ -74,7 +73,7 @@ Then, I will let you know the features that are safe and cannot lead to a ban ev
   Other games have different methods and use anti-cheat feature on their PCs, checking the user's client, but          Hypixel can only check from the server side, so ESP or XRay mods that only operate on the client side are not detectable.
   (For example: Player ESP, Mob ESP, map mode that scans rooms and shows names, 지형 name display mods, device solver mods,   and secret location mods. The feature that shows the location of secrets is not considered ESP, while the feature that      scans the room to identify which specific room it is, falls under the category of ESP.)
 
-  강제 엔더펄 기능
+  - 강제 엔더펄 기능
   Skytils already has a mode that prevents flower-type weapons from being planted when right-clicking on dirt blocks. Ender   Pearls are just the exact same feature.
   In Minecraft, there are many events that happen when you right-click, and if you cancel all events when you right-click     an item and intentinally use only “Use Item Ability”, you can use the weapon's abilities, but cancel other events such as   placing blocks.
   Ender Pearls are also made with exactly the same code, and simply because it was developed first in hack mods, it gets      recognized as a hack.
@@ -89,7 +88,7 @@ Then, I will let you know the features that are safe and cannot lead to a ban ev
 
 (Next are mods that I am reluctant to claim that those are not fully hacks.)
 
-  Ghost Block / FunnyMap 맵 수정 modes have the same function. The server clearly sends information that there’s a stone       in front of me, but those mods make us think that it’s somehow a wood.
+  - Ghost Block / FunnyMap 맵 수정 modes have the same function. The server clearly sends information that there’s a stone       in front of me, but those mods make us think that it’s somehow a wood.
   However, the truth doesn’t change. It’s wood from what I see, but if you mine it with an axe, it would break extremely      slow, and if you click or render the block again, it will change. In reality, it’s stone, but it only appears as wood       only on my screen. So, it’s generally a function that doesn’t provide any benefit.
   If you change it to a invisible block, you could use the XRay effect, but as I said, you are already using mods that        classified as XRay. Also, ghost blocks cannot originally be passed through.
   You can easily test this in single-player. Minecraft has a feature that checks this, and Hypixel either mistakenly turned   it off or it became a critical bug while developing the whole new block mining system.
@@ -100,7 +99,7 @@ Then, I will let you know the features that are safe and cannot lead to a ban ev
 
 (Next are mods that are definitely hacks but are mistakenly thought to be legit.)
 
-  SA Terminal: For this to be legit, clicking one item should only click one slot.
+  - SA Terminal: For this to be legit, clicking one item should only click one slot.
   SA's method is very similar to an auto terminal.
   The terminal's unique click cooldown and ping cause a delay until the next click.
   If that time is 0.2 seconds, and you press four buttons in 0.2 seconds, SA clicks the four buttons using the auto           terminal feature.
