@@ -53,13 +53,13 @@ But as mentioned, this feature cannot check if something is shown on the screen,
 If you consider Skytils as a legit mod, these features should all be considered as legit features:  
 - Using Ender Pearls even if you are standing right next to a block  
 - Scanning the map from the start and telling the room information (FunnyMap)  
-- Showing team member or boss locations (ESP)  
+- Showing team members or boss locations (ESP)  
 
 ## How to properly use mods.
 
 Then, does that mean I shouldn't use Skytils? Of course not.  
 Hypixel has changed to allow 퍼즐같은 mods specifically for SkyBlock, and Skytils mods have been indirectly designated as allowed mods.  
-Then, to put it again, unfortunately, these mods are also outside the regulations that Hypixel have set, and even though they have not been classified as hacks, the user must bear the risk of being banned.  
+Then, to put it again, unfortunately, these mods are also outside the regulations that Hypixel has set, and even though they have not been classified as hacks, the user must bear the risk of being banned.  
 Then, I will let you know the features that are safe and cannot lead to a ban even though they fall outside the scope of the regulations.  
 
   - All features related to ESP / XRay  
@@ -70,31 +70,31 @@ Then, I will let you know the features that are safe and cannot lead to a ban ev
   If you use a reach hack, it sends a request to the server saying you hit an enemy that’s 10 blocks away.  
   Then the server will notice the request, which is a hit from 10 blocks away, and obviously detect it as a hack.  
   그런데 이미 나한테 준 정보의 1만큼을 보던 100만큼을 보던 서버한테 보내는 정보나 요청은 없습니다.  
-  Other games have different methods and use anti-cheat feature on their PCs, checking the user's client, but Hypixel can only check from the server side, so ESP or XRay mods that only operate on the client side are not detectable.  
+  Other games have different methods and use anti-cheat features on their PCs, checking the user's client, but Hypixel can only check from the server side, so ESP or XRay mods that only operate on the client side are not detectable.  
   (For example: Player ESP, Mob ESP, map mode that scans rooms and shows names, 지형 name display mods, device solver mods, and secret location mods. The feature that shows the location of secrets is not considered ESP, while the feature that      scans the room to identify which specific room it is, falls under the category of ESP.)  
 
   - 강제 엔더펄 기능  
   Skytils already has a mode that prevents flower-type weapons from being planted when right-clicking on dirt blocks. Ender   Pearls are just the exact same feature.  
-  In Minecraft, there are many events that happen when you right-click, and if you cancel all events when you right-click     an item and intentinally use only “Use Item Ability”, you can use the weapon's abilities, but cancel other events such as   placing blocks.  
+  In Minecraft, there are many events that happen when you right-click, and if you cancel all events when you right-click     an item and intentionally use only “Use Item Ability”, you can use the weapon's abilities, but cancel other events such as placing blocks.  
   Ender Pearls are also made with exactly the same code, and simply because it was developed first in hack mods, it gets      recognized as a hack.  
   여기서 많은 분들이 이런 주장을 합니다. 엔더펄은 사용 불가능한 부분에서 사용되는데 분명하게 불공정한 모드 아니냐?  
   If you say that, flowers also shouldn’t be usable when clicked on dirt until another flower is given, but only users who    use unfair mods can use it.  
-  Also, if you hold a sword or potion and press both left and right click simultaneously, left-click takes priority, so the   right-click gets ignored and will mine blocks immediately.  
+  Also, if you hold a sword or potion and press both left and right click simultaneously, the left-click takes priority, so the right-click gets ignored and will mine blocks immediately.  
   However, animation mods prioritize the right-click first, preventing blocks from being mined.  
   엔더펄을 던질 때 실제로 그곳에서 던지지 못하는 것이 아니라 블럭설치 이벤트가 우선순위에 있어서 그렇습니다.  
   If this is still a problem, you should not use block-hit animation mods either.  
   Also, these functions can easily be detected and blocked by Hypixel. They just need to check if a target block exists       when a player right-clicks with an ender pearl in hand.  
   However, there have been no bans for this feature so far, and it should not be considered a ban reason based on the         precedent of block-hit mods.  
 
-(Next are mods that I am reluctant to claim that those are not fully hacks.)  
+(Next are mods that I am reluctant to claim are not fully hacks.)  
 
   - Ghost Block / FunnyMap 맵 수정 modes have the same function. The server clearly sends information that there’s a stone       in front of me, but those mods make us think that it’s somehow a wood.  
-  However, the truth doesn’t change. It’s wood from what I see, but if you mine it with an axe, it would break extremely      slow, and if you click or render the block again, it will change. In reality, it’s stone, but it only appears as wood       only on my screen. So, it’s generally a function that doesn’t provide any benefit.  
-  If you change it to a invisible block, you could use the XRay effect, but as I said, you are already using mods that        classified as XRay. Also, ghost blocks cannot originally be passed through.  
+  However, the truth doesn’t change. It’s wood from what I see, but if you mine it with an axe, it would break extremely      slowly, and if you click or render the block again, it will change. In reality, it’s stone, but it only appears as wood     only on my screen. So, it’s generally a function that doesn’t provide any benefit.  
+  If you change it to an invisible block, you could use the XRay effect, but as I said, you are already using mods that       classified as XRay. Also, ghost blocks cannot originally be passed through.  
   You can easily test this in single-player. Minecraft has a feature that checks this, and Hypixel either mistakenly turned   it off or it became a critical bug while developing the whole new block mining system.  
   But as we know from updates or alpha servers, it can be blocked, but it remains because of user protest to fixing the bug.
   The reason these mods work is that Hypixel actually allows them.  
-  In optimizing mods like FoamFix the ghost block bug can also happen, but they are not considered hacks.
+  In optimizing mods like FoamFix, the ghost block bug can also happen, but they are not considered hacks.
   It is because originally, ghost blocks do not provide any benefit.  
 
 (Next are mods that are definitely hacks but are mistakenly thought to be legit.)  
