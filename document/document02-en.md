@@ -44,7 +44,7 @@ For example:
   I found the 지형, it would be useful to remember the coordinates of this place.  
     ㄴ It only shows the message "지형 found" when you come near it, so it doesn't look like a hack. However, mods like Soopy that scan the entire map from the start are considered hacks. 단순하게 핵의 강도가 다른거지 Skytils의 기능만 레짓인게 절대 아닙니다.  
     
-This is not the only function; puzzle solvers and most features simply collect information about about what's around the user.  
+This is not the only function; puzzle solvers and most features simply collect information about what's around the user.  
 It doesn't matter if the information given to you is visible to you or not.  
 They work the same even if you cannot visually see the information given to you by the mod.  
 However, the most important part for users is what you see, which is why mods like Neu show the location of Pest mobs only when visible.  
