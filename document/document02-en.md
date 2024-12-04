@@ -24,7 +24,7 @@ This is explicitly stated in Hypixel's rules as a clear cheat.
 Then what about mods that show the target block of Etherwarps, check completed tasks on the 4th device, display specific terrains in Crystal Hollows, or show room names?  
 These are mods everyone uses as if they’re normal.  
 
-- The Etherwarp mod scans blocks beyond our sight and determines whether if you can Etherwarp onto that block or cannot.  
+- The Etherwarp mod scans blocks beyond our sight and determines whether you can Etherwarp onto that block or cannot.  
 - Device-checking mods, terrain-revealing mods, or map name mods function the same as X-ray.  
 The feature of scanning visible blocks and that of scanning invisible ones is entirely the same.  
 Thus, scanning visible blocks is equally problematic, but these mods go further by scanning invisible blocks.  
