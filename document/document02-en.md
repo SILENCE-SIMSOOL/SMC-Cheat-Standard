@@ -52,7 +52,7 @@ But as mentioned, this feature cannot check if something is shown on the screen,
 
 If you consider Skytils as a legit mod, these features should all be considered as legit features:  
 - Using Ender Pearls even if you are standing right next to a block  
-- Scanning the map from the start and telling the room informations (FunnyMap)  
+- Scanning the map from the start and telling the room information (FunnyMap)  
 - Showing team member or boss locations (ESP)  
 
 ## How to properly use mods.
