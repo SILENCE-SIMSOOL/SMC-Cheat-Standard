@@ -42,7 +42,7 @@ For example:
     ㄴ It marks even without looking at that place.  
 
   I found the 지형, it would be useful to remember the coordinates of this place.  
-    ㄴ It only shows the message "지형 found" when you come near it, so it doesn't look like a hack. However, mods like Soopy that scan the entire map from the start are considered hacks. 단순하게 핵의 강도가 다른거지 Skytils의 기능만 레짓인게 절대 아닙니다.  
+    ㄴ It only shows the message "지형 found" when you come near it, so it doesn't look like a hack. However, mods like Soopy that scan the entire map from the start are considered hacks. It's just that the intensity of the hacks differs; the features of Skytils are by no means the only ones considered legitimate. 
     
 This is not the only function; puzzle solvers and most features simply collect information about what's around the user.  
 It doesn't matter if the information given to you is visible to you or not.  
