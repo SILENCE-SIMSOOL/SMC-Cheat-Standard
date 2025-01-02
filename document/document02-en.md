@@ -109,5 +109,7 @@ Then, I will let you know the features that are safe and cannot lead to a ban ev
   The reason many users misunderstand this is because while they are solving a puzzle on the screen displayed by SA, the      mod is solving it using the auto terminal, which makes it appear like it’s not affected by the ping from the terminal.  
   In reality, you are not solving the terminal. Even though you’ve solved the puzzle on the screen shown by SA, the auto      terminal hasn’t finished the terminal yet, so you can often see it completing a little later.  
   Since it clicks at the earliest possible time for the next click, it retains the characteristics of the most bannable       auto macro.  
+
+### Translated by Limu_
   This mod was initially introduced as a legit feature, deceiving users, and many people were banned during a ban wave        because of it.  
   Afterwards, it was claimed that users with high ping wouldn’t be banned, and still, many top players confidently use SA     mode, claiming it’s legit.  
